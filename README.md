@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phewhecks
 - 👀 I’m interested in Gaming, coding and sleeping (eating, travelling and many more... )
 - 🌱 I’m currently learning some language/ programs and trying to be productive and have fun (lazy af)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any projects that are fun and intresting
 - 📫 How to reach me discord @phewsucks
 - 😄 Pronouns: unlucky/reallyunlucky
 - ⚡ Fun fact: fck this bullsh
