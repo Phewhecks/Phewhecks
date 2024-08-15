@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phewhecks
-- 👀 I’m interested in Gaming, coding and sleeping
+- 👀 I’m interested in Gaming, coding and sleeping (eating, travelling and many more... )
 - 🌱 I’m currently learning some language/ programs and trying to be productive and have fun (lazy af)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord @phewsucks
