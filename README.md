@@ -1,22 +1,26 @@
 # Hi, I'm Prabin 👋
 
-🎓 I'm an IT student focused on backend development and cybersecurity.  
-💻 I build web apps using Python, Flask, and HTML/CSS.  
-🔐 I'm also exploring ethical hacking and Linux-based security skills.
+🎓 I’m an IT student focused on backend development, scripting, and cybersecurity.  
+💻 I build web apps with Python and Flask, do frontend work with HTML/CSS/JS, and write scripts in Bash and C/C++ for various tasks.
 
 ## 🚀 Skills
-- Python, Flask, HTML/CSS
-- SQL basics
-- Git & GitHub
-- Basic Linux & Cybersecurity
+
+- Languages: Python, C, C++, Java, PHP, Bash
+- Web: Flask, HTML, CSS, JavaScript
+- Databases: MySQL, SQLite
+- OS & Security: Linux basics, ethical hacking basics (TryHackMe, OWASP)
 
 ## 📌 Pinned Projects
+
 - Flask web app for kidney disease prediction
-- User profile & form submission system
-- Simple static portfolio website
+- Static portfolio website (HTML/CSS)
+- Bash scripts and CLI tools
+- Small C/C++ utilities
 
 ## 💼 Looking For
-I'm actively seeking remote internships or junior backend developer roles.  
-Available full-time, ready to prove myself, and willing to take on new challenges.
+
+✅ Remote internships  
+✅ Junior developer roles (Python, Backend, Full-Stack, or Scripting)  
+✅ Cybersecurity research assistant opportunities
 
 📫 [LinkedIn](https://www.linkedin.com/in/sthaprabin/) – Let’s connect!
