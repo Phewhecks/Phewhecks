@@ -5,10 +5,12 @@
 
 ## 🚀 Skills
 
-- Languages: Python, C, C++, Java, PHP, Bash
-- Web: Flask, HTML, CSS, JavaScript
-- Databases: MySQL, SQLite
-- OS & Security: Linux basics, ethical hacking basics (TryHackMe, OWASP)
+- Programming Languages: Python, C, C++, Java, PHP, Bash, JavaScript (ES6+)
+- eb Development:
+  - Frontend: React, HTML5, CSS3, JavaScript
+  - Backend: Node.js, Flask, Express.js
+- Databases: MySQL, SQLite, MongoDB (basic knowledge)
+- Operating Systems & Security: Linux basics, ethical hacking fundamentals (TryHackMe, OWASP)
 
 ## 📌 Pinned Projects
 
