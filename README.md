@@ -6,7 +6,7 @@
 ## 🚀 Skills
 
 - Programming Languages: Python, C, C++, Java, PHP, Bash, JavaScript (ES6+)
-- eb Development:
+- Web Development:
   - Frontend: React, HTML5, CSS3, JavaScript
   - Backend: Node.js, Flask, Express.js
 - Databases: MySQL, SQLite, MongoDB (basic knowledge)
